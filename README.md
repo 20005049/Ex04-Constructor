@@ -3,28 +3,27 @@
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  
 ## Algorithm:
-```
-\*
-##Step1:
+
+## Step1:
 Start.
 
-##Step2:
+## Step2:
 Create a class and a constructor.
 
-##Step3:
+## Step3:
 Get name, designation, noofexperience, basic salary and insurance amount from the User.
 
-##Step4:
+## Step4:
 Call salary method in constructor to calculate salary.
 
-##Step5:
+## Step5:
 Call display method to display the output.
 
-##Step6:
+## Step6:
 stop.
  
  ## Program:
-~~~
+```
 using System;
 namespace Hello
 {
@@ -65,7 +64,7 @@ namespace Hello
        }
    }
 }
-
+```
  
  ## Output:
  ![image](https://user-images.githubusercontent.com/75241366/167175260-72500c79-2c36-45f5-a901-64db6b258de6.png)
